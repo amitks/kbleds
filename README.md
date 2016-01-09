@@ -1,2 +1,2 @@
 # kbleds
-a small kernel module to control keyboards light
+kernel module to control keyboards LEDS using tty drivers.
